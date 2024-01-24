@@ -1,4 +1,4 @@
-package kly;
+
 
 import java.util.Scanner;
 import java.util.Map;

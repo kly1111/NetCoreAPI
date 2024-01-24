@@ -1,4 +1,4 @@
-package kly;
+
 
 import java.util.Scanner;
 
@@ -24,4 +24,5 @@ public class Kly {
             System.out.printf("x1 = %.2f \n",(-b + Math.sqrt(delta))/2 *a);
             System.out.printf("x2 = %.2f", (-b - Math.sqrt(delta))/2 *a);
         }
+        sc.close();
     }
